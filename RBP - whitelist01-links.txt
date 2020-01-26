@@ -1,0 +1,5 @@
+#sudo -s											#
+#curl -sS link.list >>/etc/pihole/whitelist.txt		#
+
+https://github.com/samerali2/umatrix_test_01/blob/master/whitelist
+https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list
