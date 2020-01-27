@@ -1204,3 +1204,7 @@ track.webgains.com
 ad.atdmt.com
 clickserve.dartsearch.net
 5231.xg4ken.com
+ytimg.com
+ebay.com
+ebay.co.uk
+vk.com
