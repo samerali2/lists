@@ -1,5 +1,7 @@
-pihole -w clients4.google.com 
+pihole -w clients1.google.com
 pihole -w clients2.google.com
+pihole -w clients3.google.com
+pihole -w clients4.google.com 
 pihole -w s.youtube.com 
 pihole -w video-stats.l.google.com
 pihole -w android.clients.google.com
@@ -54,3 +56,14 @@ pihole -w f1.media.brightcove.com
 pihole -w v10.vortex-win.data.microsoft.com
 pihole -w v20.vortex-win.data.microsoft.com
 pihole -w dynaimage.cdn.turner.com
+pihole -w res.cloudinary.com
+pihole -w rover.ebay.com
+pihole -w imgs.xkcd.com
+pihole -w netflix.com
+pihole -w alluremedia.com.au
+pihole -w tomshardware.com
+pihole -w ocsp.apple.com
+pihole -w s.shopify.com
+pihole -w keystone.mwbsys.com
+pihole -w dl.dropbox.com
+pihole -w api.ipify.org
